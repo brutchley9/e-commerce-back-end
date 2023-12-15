@@ -1,0 +1,24 @@
+{
+  "name": "e-commerce-back-end",
+  "version": "1.0.0",
+  "description": "In this challenge, I will be utilizing a foundational understanding of Express.js, along with further experience in MySQL database structure, to refactor an existing e-commerce webpage with Sequelize. With this dependency installed, the existing back end framework with Express.js will be able to interact with the MySQL database, given user input. This challenge already contained starter code; my purpose here is to allow the user to get, put and post information to and from the database in JSON format.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.7"
+  }
+}
