@@ -26,3 +26,5 @@ Follow link [ ---------------- ] to view a tutorial video on how to access and i
 <li>https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/</li>
 
 <li>https://sequelize.org/docs/v6/core-concepts/model-basics/</li>
+
+<li>https://stackoverflow.com/questions/56178147/sequelize-inside-express-route-include-where-model-matches-search-terms</li>
