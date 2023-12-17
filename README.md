@@ -21,8 +21,8 @@ Follow link [ ---------------- ] to view a tutorial video on how to access and i
     
 # Resources
     
-<li></li>
+<li>https://sequelize.org/docs/v7/associations/belongs-to-many/</li>
 
-<li></li>
+<li>https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/</li>
 
-<li></li>
+<li>https://sequelize.org/docs/v6/core-concepts/model-basics/</li>
