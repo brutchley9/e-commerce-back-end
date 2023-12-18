@@ -13,7 +13,7 @@ A walkthrough video will also be provided for further demonstration once the app
 
 Follow link https://github.com/brutchley9/e-commerce-back-end to access GitHub repository for this website (including code).
 
-Follow link [ ---------------- ] to view a tutorial video on how to access and initialize this application from the command line.
+Follow link https://drive.google.com/file/d/1Xc8c42t0jEyAYNoH7BuAttuxhTuUDHq6/view to view a tutorial video on how to access and initialize this application from the command line.
 
 
 ---
